@@ -1,1 +1,2 @@
 https://storage.googleapis.com/example_bucket256/index.html
+https://storage.googleapis.com/new_best_bucket5236/index.html
